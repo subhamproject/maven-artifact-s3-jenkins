@@ -1,0 +1,13 @@
+Below links are useful to push and condfigure maven artifact to s3
+
+https://github.com/endeavor85/endeavor85.github.io/wiki/Maven-Deploy-Artifacts-to-S3-Bucket
+
+https://dzone.com/articles/host-your-maven-artifacts-using-amazon-s3
+
+https://egkatzioura.com/2018/04/09/host-your-maven-artifacts-using-amazon-s3/
+
+https://blog.zestmoney.in/using-s3-as-maven-repository-4b96e8045ccf
+
+https://jmchung.github.io/blog/2015/03/01/using-amazon-s3-as-a-private-maven-repository/
+
+https://kodingnotes.wordpress.com/2017/11/08/migrating-maven-artifacts-from-nexus-to-s3/
